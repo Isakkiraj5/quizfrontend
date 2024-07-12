@@ -1,0 +1,23 @@
+/* App.css */
+.text-center .bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.p-5 {
+  padding: 3rem !important;
+}
+
+.shadow {
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
+}
+
+.display-3 {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
